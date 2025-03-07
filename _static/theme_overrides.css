@@ -1,0 +1,38 @@
+/* override table width restrictions */
+@media screen and (min-width: 767px) {
+
+    .wy-table-responsive table td {
+       /* !important prevents the common CSS stylesheets from overriding
+          this as on RTD they are loaded after this stylesheet */
+       white-space: normal !important;
+    }
+ 
+ }
+
+.wy-nav-content {
+   max-width: none;
+}
+
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+   font-family: "VWAG TheSans","Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif;
+}
+
+/* make paragraphs similar to confluence */
+/* p { */
+    /* font-size: 14px; */
+    /* line-height: 21px; */
+    /* margin: 0 0 8px; */
+/* } */
+
+/* .rst-content section ul { */
+    /* margin-bottom: 14px; */
+/* } */
+
+/* make TOCs similar to confluence */
+/* .rst-content .toctree-wrapper ul li > * { */
+    /* margin-top: 2px; */
+/* } */
+
+/* .rst-content .toctree-wrapper ul { */
+    /* line-height: 21px; */
+/* } */
