@@ -37,4 +37,6 @@ html_theme_options = {
     'prev_next_buttons_location': 'both',
     'navigation_depth': 2
 }
-
+html_context = {
+    'source_url_prefix': 'https://github.com/Profoktor/cookbook/blob/main/kochbuch/'
+}
