@@ -10,3 +10,4 @@ Plätzchen
     berliner_brot
     gewuerzplaetzchen
     ingwerplaetzchen
+    elisen
