@@ -25,7 +25,7 @@ jobs:
       - name: Set up dependencies
         run: | 
           
-          sudo apt-get install hunspell hunspell-tools hunspell-de-de
+          sudo apt-get install hunspell hunspell-tools hunspell-de-de-frami 
           python -m pip install --upgrade pip
           pip install .
 
