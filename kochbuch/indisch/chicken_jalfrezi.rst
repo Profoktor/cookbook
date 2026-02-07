@@ -33,7 +33,7 @@ Zubereitung
 * Tomaten in kleine Würfel schneiden.
 * Ghee erhitzen und Zwiebeln bei mittlerer Hitze bräunen. Ingwer, Knoblauch, Chili, Kurkuma, Kreuzkümmel, Paprikapulver und Salz zugeben und kurz andünsten.
 * Mit Tomaten und ca. 100ml Wasser ablöschen, 5-10 Minuten aufkochen
-* Fleisch und Möhren zugeben und 10 Minuten scharf anbraten, Paprika zugeben und mit 100-300ml Wasser bei mittlerer hitze weiter köcheln.
+* Fleisch und Möhren zugeben und 10 Minuten scharf anbraten, Paprika zugeben und mit 100-300ml Wasser bei mittlerer Hitze weiter köcheln.
 * Garam Masala und Koriander zugeben und unterrühren
 
 Mit Chapati oder Reis servieren

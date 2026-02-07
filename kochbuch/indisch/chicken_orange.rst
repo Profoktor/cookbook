@@ -16,7 +16,7 @@ Chicken Orange
    * 2-3 Orangen (Saft)
    * 1 :index:`Orange` (Schale)
    * 40-50g Honig
-   * 500ml Crème fraîche oder Sahne
+   * 500ml Crème Fraîche oder Sahne
    * 1/4 TL Chilipulver
    * 1 TL Paprikapulver
    * 2 TL Kurkuma

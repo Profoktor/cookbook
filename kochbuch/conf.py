@@ -19,7 +19,8 @@ numfig = True
 
 extensions = [
     'sphinxcontrib.jquery', 
-    'sphinx_design'
+    'sphinx_design',
+    'sphinxcontrib.spelling'
 ]
 
 # HTML output options
@@ -40,3 +41,5 @@ html_theme_options = {
 html_context = {
     'source_url_prefix': 'https://github.com/Profoktor/cookbook/blob/main/kochbuch/'
 }
+
+spelling_lang='de_DE'

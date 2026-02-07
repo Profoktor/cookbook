@@ -1,8 +1,9 @@
 [project]
 name = "kochbuch"
-version = "2025"
+version = "2026"
 dependencies = [
-    "sphinx==6.2.1",
-    "sphinx_rtd_theme==1.2.0",
-    "sphinx-design==0.6.0"
+    "sphinx==8.1.3",
+    "sphinx_rtd_theme==3.1.0",
+    "sphinx-design==0.6.1",
+    "sphinxcontrib-spelling==8.0.2"
 ]

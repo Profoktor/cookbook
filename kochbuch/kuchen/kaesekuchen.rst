@@ -28,7 +28,7 @@ Boden
 Masse
 
 * restlicher Eier trennen, Eiweiß mit einer Prise Salz steif schlagen
-* Eigelb, Quark, Sahne, Zucker, Zitronensaft, restlichen Zucker, Vanillepudding und eine Messerspitze backpulver mischen und schaumig rühren
+* Eigelb, Quark, Sahne, Zucker, Zitronensaft, restlichen Zucker, Vanillepudding und eine Messerspitze Backpulver mischen und schaumig rühren
 * Eiweiß und abgetropfte Mandarinen unterheben
 * Masse auf den Boden gießen
 

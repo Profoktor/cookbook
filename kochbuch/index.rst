@@ -74,8 +74,8 @@ Kochbuch
     indisch/index
 
 
-Indices and tables
-==================
+Index
+=====
 
 * :ref:`genindex`
 * :ref:`search`

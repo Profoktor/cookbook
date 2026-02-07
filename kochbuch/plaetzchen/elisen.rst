@@ -21,7 +21,7 @@ Zubereitung
 ===========
 
 * Zitronat und Orangeat im Mixer zerkleinern
-* Eier, Zucker und Honig schauig rühren
+* Eier, Zucker und Honig schaumig rühren
 * Weitere Zutaten untermischen
 
 Backen

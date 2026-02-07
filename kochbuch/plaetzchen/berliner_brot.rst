@@ -12,7 +12,7 @@ Berliner Brot
     * 4 EL heißes Wasser
     * 300g brauner Zucker
     * 1 Päckchen Vanillezucker
-    * 130g Apfel- / Rübenkraut oder Pflaumenmuß
+    * 130g Apfel- / Rübenkraut oder Pflaumenmus
     * 1/2 Ampulle Rumaroma 
     * 1/2 TL Piment
     * 2 EL Zimt
@@ -38,7 +38,7 @@ Zubereitung
 Backen
 ------
 
-Den Teig auf ein Backblech streichen. Bei (Heißluft) etwa 180°C für etwa 20 Minuten im unteren Drittel backen. Anschließend auf einem Rost erkalten lassen und mit Zuckerguß bestreichen.
+Den Teig auf ein Backblech streichen. Bei (Heißluft) etwa 180°C für etwa 20 Minuten im unteren Drittel backen. Anschließend auf einem Rost erkalten lassen und mit Zuckerguss bestreichen.
 
 .. tip::
-    Mit Apfelkraut oder Pflaumenmuß hat das Berliner Brot etwas mehr Aroma
+    Mit Apfelkraut oder Pflaumenmus hat das Berliner Brot etwas mehr Aroma

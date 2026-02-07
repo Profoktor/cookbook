@@ -9,7 +9,7 @@ Osterbrot
     * 1kg Mehl (1050)
     * 1 Prise Salz
     * 1/4l Wasser
-    * Orangeschale
+    * Orangenschale
     * 50g Zucker
     * 2-3 EL Öl
 
