@@ -31,7 +31,7 @@ jobs:
 
       - name: Spellcheck
         run: |
-          python -m sphinx -b=spelling ./kochbuch ./spellcheck
+          python -m sphinx -b=spelling -W ./kochbuch ./spellcheck
 
       - name: Build doc
         run: |
