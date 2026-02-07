@@ -27,6 +27,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install .
 
+      - name: Spellcheck
+        run: |
+          python -m sphinx -b=spellcheck ./kochbuch ./spellcheck
+
       - name: Build doc
         run: |
           python -m sphinx -b=html -W ./kochbuch ./build
