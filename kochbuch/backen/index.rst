@@ -9,3 +9,4 @@ Backen
 
     hafer_waffeln
     osterbrot
+    quarkbaellchen
