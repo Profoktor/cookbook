@@ -32,16 +32,22 @@ chicken
 # Begriffe
 anschwitzen
 einsieben
+nachsüßen
+pulver
 Stäbchenprobe
+Tiefkühl
 
 # Lebensmittel
+Agavendicksaft
 Anispulver
 Avocadomark
 Büffelmilch
 Citroback
 Hack
 Hokkaidokürbis
+Instantkaffee
 Kakaomischung
+Kakakopulver
 Rumaroma
 Worcestershiresauce
 Zwiebackmehl

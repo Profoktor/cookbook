@@ -25,7 +25,11 @@ Kochbuch
    .. grid-item-card:: :material-regular:`cookie;2em` Plätzchen
       :link: plaetzchen
       :link-type: ref
-    
+
+   .. grid-item-card:: :material-regular:`icecream;2em` Eis
+      :link: eis
+      :link-type: ref
+
    .. grid-item-card:: Indisch
       :link: indisch
       :link-type: ref
@@ -65,6 +69,13 @@ Kochbuch
     :hidden:
 
     plaetzchen/index
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Eis
+    :hidden:
+
+    eis/index
 
 .. toctree::
     :maxdepth: 1
