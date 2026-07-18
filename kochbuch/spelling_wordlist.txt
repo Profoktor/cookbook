@@ -34,15 +34,19 @@ anschwitzen
 einsieben
 nachsüßen
 pulver
+rosenscharf
 Stäbchenprobe
 Tiefkühl
 
 # Lebensmittel
 Agavendicksaft
 Anispulver
+Apfelmuß
 Avocadomark
 Büffelmilch
 Citroback
+Fenchelauflauf
+Fenchelgrün
 Hack
 Hokkaidokürbis
 Instantkaffee

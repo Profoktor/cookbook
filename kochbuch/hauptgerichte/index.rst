@@ -7,6 +7,8 @@ Hauptgerichte
     :maxdepth: 1
 
     gefuellter_blumenkohl
+    fenchelauflauf
+    gulasch
     gulaschsuppe
     kichererbsen_eintopf
     lende_aprikose
